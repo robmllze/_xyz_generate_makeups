@@ -1,0 +1,25 @@
+name: _xyz_generate_makeups
+description:
+version: 0.0.1
+publish_to: none
+environment:
+  sdk: '>=3.0.0-218.1.beta <4.0.0'
+  flutter: ">=1.17.0"
+dependency_overrides:
+  analyzer: 5.10.0
+  xyz_utils:
+    path: ../../xyz_utils
+dependencies:
+  xyz_generate_makeups_annotations:
+    path: ../xyz_generate_makeups_annotations/
+  xyz_utils:
+    git:
+      url: https://github.com/robmllze/xyz_utils.git
+      ref: master
+  build: 2.3.1
+  source_gen: 1.2.7
+  analyzer: 5.10.0
+  glob: 2.1.1
+  path: 1.8.3
+  flutter:
+    sdk: flutter

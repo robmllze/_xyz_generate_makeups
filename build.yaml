@@ -1,0 +1,8 @@
+builders:
+    generate_makeups:
+      import: "package:_xyz_generate_makeups/xyz_generate_makeups.dart"
+      builder_factories: ["makeupsBuilder"]
+      build_extensions: {".dart": [".g.dart"]}
+      auto_apply: dependents
+      build_to: cache
+      applies_builders: ["source_gen:combining_builder"]
