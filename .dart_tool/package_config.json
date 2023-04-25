@@ -32,12 +32,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "characters",
-      "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/characters-1.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "clock",
       "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -74,12 +68,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "flutter",
-      "rootUri": "file:///Users/robmllze/desktop/dev/flutter/packages/flutter",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "glob",
       "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/glob-2.1.1",
       "packageUri": "lib/",
@@ -92,22 +80,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "js",
-      "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/js-0.6.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "logging",
       "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/logging-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
-    },
-    {
-      "name": "material_color_utilities",
-      "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.13"
     },
     {
       "name": "meta",
@@ -132,12 +108,6 @@
       "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/pub_semver-2.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.17"
-    },
-    {
-      "name": "sky_engine",
-      "rootUri": "file:///Users/robmllze/desktop/dev/flutter/bin/cache/pkg/sky_engine",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "source_gen",
@@ -170,12 +140,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "vector_math",
-      "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
       "name": "watcher",
       "rootUri": "file:///Users/robmllze/.pub-cache/hosted/pub.dev/watcher-1.0.2",
       "packageUri": "lib/",
@@ -206,7 +170,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-04-25T06:20:16.854335Z",
+  "generated": "2023-04-25T14:30:43.806281Z",
   "generator": "pub",
   "generatorVersion": "3.0.0-218.1.beta"
 }
