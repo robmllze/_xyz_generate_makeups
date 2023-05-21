@@ -171,7 +171,7 @@ Future<List<String>> _getMakeupNamesFromThemeClassFile({
     // Get all the member names.
     final members = substrings.map((final l) {
       return l.replaceAll(RegExp("\\s"), "").split(",");
-    }).tryReduce()!;
+    }).tryReduce2()!;
     return members.toList();
   } catch (_) {
     return [];
